@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+p {
+    
+    text-align: center;
+    color: 36622B;
+
+}
+h1 {
+    text-align: center;
+    color: #1B335F;
+    font-size:50px;
+}
+
+h2 {
+    text-align: center;
+    color: #F68989;
+    font-size: 50px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.imgsmall {
+    height: 250px;
+    width: auto;
+}
+
+.imglarge {
+    height: 400px;
+    width: auto;
+}
+
+.price {
+    font-size: 40px;
+    font-weight: bold
+    
+}
+
+.size {
+    font-size: 20px;
+    font-weight: bold
+}
